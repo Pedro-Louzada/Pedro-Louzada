@@ -2,15 +2,9 @@
 
 ##
   
-Atualmente trabalho sou Tech Lead em desenvolvimentos de chatbots utilizando a plataforma Blip e atuo como desenvolvedor Pleno em sistemas de automação, desenvolvendo aplicações frontend e backend interligadas a LLMs.
+Atualmente trabalho como Tech Lead em desenvolvimentos de chatbots utilizando a plataforma Blip e atuo como desenvolvedor Pleno em sistemas de automação, desenvolvendo aplicações frontend e backend interligadas a LLMs.
 
 Sou formado em Análise e Desenvolvimento de Sistemas e atualmente iniciei minha Pós graudação em Engenharia de IA Aplicada.
-  
-<div>
-  <a href='https://github.com/Pedro-Louzada'>
-      <img height:'180em' src='https://github-readme-stats.vercel.app/api?username=Pedro-Louzada&show_icons=true&theme=dark&include_all_commits=true&count_private=true' />
-  <img height:'180em' src='https://github-readme-stats.vercel.app/api/top-langs/?username=Pedro-Louzada&layout=compact&langs_count=7&theme=dark'/>
-</div>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Pedro-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
