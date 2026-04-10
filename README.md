@@ -1,9 +1,10 @@
 ### Olá, meu nome é Pedro Louzada! 
 
-  ##
+##
   
-- 🔭 Atualmente trabalho com front-end
-- 🌱 Estudando integração de APIs com React
+Atualmente trabalho sou Tech Lead em desenvolvimentos de chatbots utilizando a plataforma Blip e atuo como desenvolvedor Pleno em sistemas de automação, desenvolvendo aplicações frontend e backend interligadas a LLMs.
+
+Sou formado em Análise e Desenvolvimento de Sistemas e atualmente iniciei minha Pós graudação em Engenharia de IA Aplicada.
   
 <div>
   <a href='https://github.com/Pedro-Louzada'>
